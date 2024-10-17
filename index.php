@@ -71,6 +71,7 @@ if (!empty($_SESSION['activa'])) {
       <div class="col" style="background-color: #9fd6d2;">
         <div class="row">
           <h1 style="color: #343a40;">AUTENTIFICACIÓN JUAN DIEGO</h1>
+          <h2 style="color: #343a40;">HOLA MUNDO</h2>
         </div>
         <form style="padding: 26px;" method="POST">
           <div>
